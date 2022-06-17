@@ -554,22 +554,17 @@ margin-right: 0;
 margin-bottom: 0;
 }
 
-.posters-block:hover,
-.posters-block:focus {
-box-shadow: 0px 1px 1px 
-rgba(0, 0, 0, 0.12), 0px 4px 4px 
-rgba(0, 0, 0, 0.06), 1px 4px 6px 
-rgba(0, 0, 0, 0.16);
+.posters-link {
+display: block;
 }
 
-/* .posters-link:hover,
+.posters-link:hover,
 .posters-link:focus {
 box-shadow: 0px 1px 1px 
 rgba(0, 0, 0, 0.12), 0px 4px 4px 
 rgba(0, 0, 0, 0.06), 1px 4px 6px 
 rgba(0, 0, 0, 0.16);
-} */
-
+}
 
 .posters-title {
 font-weight: 700;
